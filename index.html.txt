@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Manav Coffee Shop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>☕ Manav Coffee Shop</h1>
+    <p>Fresh Coffee • Best Taste • Good Vibes</p>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">Menu</a>
+    <a href="#">About</a>
+    <a href="#">Contact</a>
+</nav>
+
+<section> in HTML: <img src="images/coffee.jpg" width="300">
+    <h2>Our Special Coffee</h2>
+    <p>Espresso • Cappuccino • Latte • Cold Coffee</p>
+</section>
+
+<footer>
+    <p>© 2026 Manav Coffee Shop</p>
+</footer>
+
+</body>
+</html>
